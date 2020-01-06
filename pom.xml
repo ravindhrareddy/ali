@@ -23,11 +23,11 @@
       <name>internal release</name>
       <url>http://3.82.222.3:8081/repository/maven-releases/</url>
     </repository>
-    <repository>
+    <snapshotrepository>
       <id>deployment</id>
       <name>internal snapshot release</name>
       <url>http://3.82.222.3:8081/repository/maven-snapshots/</url>
-    </repository>
+    </snapshotrepository>
   </repositories>
   <dependencies>
     <dependency>
