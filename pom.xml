@@ -31,8 +31,8 @@
   </repositories>
   <dependencies>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
+      <groupId>ss</groupId>
+      <artifactId>ali</artifactId>
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
@@ -80,11 +80,11 @@
         </plugin>
         <!-- site lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#site_Lifecycle -->
         <plugin>
-          <artifactId>maven-site-plugin</artifactId>
+          <artifactId>ali</artifactId>
           <version>3.7.1</version>
         </plugin>
         <plugin>
-          <artifactId>maven-project-info-reports-plugin</artifactId>
+          <artifactId>ali</artifactId>
           <version>3.0.0</version>
         </plugin>
       </plugins>
