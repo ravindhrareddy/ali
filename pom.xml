@@ -22,7 +22,7 @@
       <id>deployment</id>
       <name>Internal Release</name>
       <url>http://3.82.222.3:8081/repository/maven-releases/</url>
-    </repository>
+    </repository>\n
     <snapshotrepository>
       <id>deployment</id>
       <name>Internal Snapshot Release</name>
